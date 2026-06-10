@@ -1,0 +1,16 @@
+:root {
+  --bg-color: #1a1411;
+  --text-color: #ffffff;
+  --accent-orange: #e8743a;
+}
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100vh;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: sans-serif;
+}
