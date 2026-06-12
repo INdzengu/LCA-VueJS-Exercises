@@ -13,5 +13,5 @@ submissions for Week 9 of Course 1 at Life Choices Academy.
 | week9-vuejs-ex-01 | Cooking catalogue |
 | week9-vuejs-ex-02 | Food Fest Ticket Landing |
 | week9-vuejs-ex-03 | Property mini listings |
-| week9-vuejs-ex-04 | Cooking catalogue |
+| week9-vuejs-ex-04 | Fitness Class Schedular |
 | week9-vuejs-ex-05 | Cooking catalogue |
